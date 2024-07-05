@@ -1,15 +1,16 @@
 # 👋 Hi, I'm Bupe Chindongo
 
-> *I never stop learning.*
+> *"You have power over your mind - not outside events. Realize this, and you will find strength."* - Marcus Aurelius
 
 ## 👨‍💻 About Me
-I'm a Data Engineer with a background in Informatics and Statistics from the University of Pretoria. Currently exploring the realms of data and technology, and planning to pursue postgraduate studies in 2025.
+I'm a Data Engineer with a strong passion for all things data. My background in Informatics and Statistics from the University of Pretoria has fueled my enthusiasm for leveraging data to drive insights and innovation. Currently, I'm exploring the vast realms of data and technology, constantly seeking new challenges and opportunities to grow. I'm excited about my plans to pursue postgraduate studies in 2025, further deepening my expertise in this field.
 
 ## 🛠️ Technologies & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/-SAS-1C84C6?style=for-the-badge&logo=sas&logoColor=white" alt="SAS" />
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
@@ -21,6 +22,7 @@ I'm a Data Engineer with a background in Informatics and Statistics from the Uni
 
 ## 🌐 Connect with Me
 - 💼 [Personal Website](https://BupeChindongo.Netlify.App)
+- 📊 [Kaggle](https://www.kaggle.com/YourKaggleUsername)
 
 ## 🎯 Interests
 - 💻 Information Technology
@@ -31,11 +33,9 @@ I'm a Data Engineer with a background in Informatics and Statistics from the Uni
 - 👗 Fashion
 - 🥾 Hiking
 
-## 📊 GitHub Stats
+## 📊 GitHub Contributions
 
-![Bupe's GitHub stats](https://github-readme-stats.vercel.app/api?username=BupeChindongo&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=BupeChindongo&layout=compact&theme=radical)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=BupeChindongo&theme=radical)
 
 ---
 
