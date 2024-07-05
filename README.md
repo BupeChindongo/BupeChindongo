@@ -41,5 +41,5 @@ I'm a Data Engineer with a strong passion for all things data. My background in 
 ---
 
 <p align="center">
-  <i>Let's connect and build something amazing together!</i>
+  <i>Let's connect and build something amazing together! reach me at bchindongo@live.com</i>
 </p>
