@@ -3,7 +3,7 @@
 > *"You have power over your mind - not outside events. Realize this, and you will find strength."* - Marcus Aurelius
 
 ## 👨‍💻 About Me
-I'm a Data Engineer with a strong passion for all things data. My background in Informatics and Statistics from the University of Pretoria has fueled my enthusiasm for leveraging data to drive insights and innovation. Currently, I'm exploring the vast realms of data and technology, constantly seeking new challenges and opportunities to grow. I'm excited about my plans to pursue postgraduate studies in 2025, further deepening my expertise in this field.
+I'm a Data Engineer with a strong passion for all things data. My background in Informatics, with focuses on both Statistics and Business Management from the University of Pretoria has fueled my enthusiasm for leveraging data to drive insights and innovation. Currently, I'm exploring the vast realms of data and technology, constantly seeking new challenges and opportunities to grow. I'm excited about my plans to pursue postgraduate studies in 2025, further deepening my expertise in this field.
 
 ## 🛠️ Technologies & Tools
 <p align="left">
@@ -18,6 +18,7 @@ I'm a Data Engineer with a strong passion for all things data. My background in 
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 ## 🌐 Connect with Me
