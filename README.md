@@ -3,7 +3,7 @@
 > *"You have power over your mind - not outside events. Realize this, and you will find strength."* - Marcus Aurelius
 
 ## 👨‍💻 About Me
-I'm a Data Engineer with a strong passion for all things data. My background in Informatics, with focuses on both Statistics and Business Management from the University of Pretoria has fueled my enthusiasm for leveraging data to drive insights and innovation. Currently, I'm exploring the vast realms of data and technology, constantly seeking new challenges and opportunities to grow. I'm excited about my plans to pursue postgraduate studies in 2025, further deepening my expertise in this field.
+I'm a Data Scientist with a strong passion for all data-related roles, from Analytics to Engineering. My background in Informatics, with a focus on statisticss from the University of Pretoria, as well as my recent AI-related studies in Computer Science at the University of Johannesburg, have fueled my enthusiasm for leveraging data to drive insights and innovation. Currently, I'm exploring the vast realms of data and technology, constantly seeking new challenges and opportunities to grow. 
 
 ## 🛠️ Technologies & Tools
 <p align="left">
